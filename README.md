@@ -16,4 +16,4 @@ TROUBLESHOOTING
 
 Here is a screenshot of what the home page should look like when opened.
 
- ![Screenshot (18)](assests/images/Screenshot%20(18).png)
+
