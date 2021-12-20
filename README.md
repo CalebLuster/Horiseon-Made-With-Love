@@ -15,4 +15,4 @@ TROUBLESHOOTING
     - If you wish to change the text for when a photo does not appear, just change the description inside the quotes of the alt tag for the desired image. (I have added alt tags to all of your images.)
 
 Here is a screenshot of what the home page should look like when opened.
- 
+ ![](assests/images/Screenshot (18).png)
