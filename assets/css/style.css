@@ -4,10 +4,12 @@
   margin: 0;
   /* Effects entire webpage */
 }
+
 body {
   background-color: #d9dcd6;
   /* effects entire body */
 }
+
 header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -16,13 +18,16 @@ header {
   color: #ffffff;
   /* effects entire header */
 }
+
 header h1 {
   display: inline-block;
   font-size: 48px;
 }
+
 header h1 .seo {
   color: #d9dcd6;
 }
+
 header div {
   padding-top: 15px;
   margin-right: 20px;
@@ -30,21 +35,26 @@ header div {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   font-size: 20px;
 }
+
 header div ul {
   list-style-type: none;
 }
+
 header div ul li {
   display: inline-block;
   margin-left: 25px;
 }
+
 a {
   color: #ffffff;
   text-decoration: none;
   /* effects links in header */
 }
+
 p {
   font-size: 16px;
 }
+
 .hero {
   height: 800px;
   width: 100%;
@@ -54,21 +64,25 @@ p {
   background-position: center;
   /* elements to front cover picture */
 }
+
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
+
 .float-left {
   float: left;
   margin-right: 25px;
   /* effects picture placement for decoritave photos */
 }
+
 .float-right {
   float: right;
   margin-left: 25px;
   /* effects picture placement for decoritave photos */
 }
+
 .online-reputation-management,
 .social-media-marketing,
 .search-engine-optimization {
@@ -80,12 +94,14 @@ p {
   color: #ffffff;
   /* elements of main body of webpage */
 }
+
 .search-engine-optimization img,
 .online-reputation-management img,
 .social-media-marketing img {
   max-height: 200px;
   /* elements of main body of webpage images*/
 }
+
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
@@ -93,6 +109,7 @@ p {
   font-size: 36px;
   /* elements of main body of webpage titles*/
 }
+
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -103,6 +120,7 @@ p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
+
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {
@@ -110,6 +128,7 @@ p {
   color: #ffffff;
   /* elements to right side information bar */
 }
+
 .benefit-lead h3,
 .benefit-brand h3,
 .benefit-cost h3 {
@@ -117,6 +136,7 @@ p {
   text-align: center;
   /* elements to right side information bars titles */
 }
+
 .benefit-lead img,
 .benefit-brand img,
 .benefit-cost img {
@@ -125,6 +145,7 @@ p {
   max-width: 150px;
   /* elements to right side information bar pictures */
 }
+
 footer {
   padding: 30px;
   clear: both;
@@ -132,6 +153,7 @@ footer {
     "Lucida Sans", Arial, sans-serif;
   text-align: center;
 }
+
 footer h2 {
   font-size: 20px;
 }
